@@ -1,0 +1,78 @@
+#header {
+    color:#A901DB;
+    background-color:#01DF74;
+    font-family:arial;
+    text-align: center;
+    border-radius:25px;
+    letter-spacing:5px;
+}
+
+#content {
+    background-color:#81F79F;
+    color:#FFB300;
+    text-align:center;
+    border-radius:1000px;
+    font-family:arial;
+}
+#picture {
+    float:right;
+    background:#00FFFF;
+}
+#contact {
+    background-color:black;
+    color:white;
+    font-family:arial;
+    text-align:center;
+     border-radius:25px;
+}
+#slogan {
+    background-color:#00FFFC;
+    color:#FF79F9;
+    width:300px;
+    text-align:center;
+    position:relative;
+    left:780px;
+     border-radius:25px;
+}
+#makeuppicture {
+    background-color:purple;
+    padding:50px;
+    position:relative;
+    text-align:center;
+     border-radius:25px;
+     
+}
+#whole {
+    background-color:pink;
+    padding:20px;
+}
+#prices {
+    background-color:white;
+    color:black;
+     width:500px;
+    text-align:center;
+    position:relative;
+    left:700px;
+     border-radius:25px;
+}
+body {
+    background-color:pink;
+}
+#text {
+    background-color:white;
+    border-radius:25px;
+}
+#title {
+    background-color:black;
+    color:white;
+    text-align:center;
+    border-radius:25px;
+    width:150px;
+    position:relative;
+    left:820px;
+}
+#pls {
+    background-color:white;
+    color:black;
+    border-radius:25px;
+}
